@@ -1,0 +1,60 @@
+1).The first argument is read by the shell into the parameter ___?
+
+ a) 1$
+ b) $3
+ c) $$
+ d) $1
+2).To perform a set of instructions repeatedly, Which commands are used?
+
+ a). for
+ b). for, while, until
+ c). until
+ d). while
+3).In while loop which keywords are used?
+
+ a). do and done
+ b). done
+ c). then
+ d). do
+4).The system structure of Linux is?
+
+ a)Monolithic Kernal
+ b)Nano Kernal
+ c)Micro Kernal
+ d)Hybrid Kernal
+5).What command is used to count the total number of lines, words, and characters contained in a file?
+
+ a).countw
+ b).wcount
+ c).wc
+ d).count p
+6).What command is used to remove files?
+
+ a).dm
+ b).rm
+ c).delete
+ d).erase
+7).What command is used to remove the directory?
+
+ a).rdir
+ b).remove
+ c).rd
+ d).rmdir
+8).What command is used with vi editor to delete a single character?
+
+ a).x
+ b).y
+ c).a
+ d).z	
+9)What does FSF stand for?
+
+ a).Free Software File
+ b).File Server First
+ c).First Serve First
+ d).Free Software Foundation
+10).Which of the following is not a communication command?
+
+ a).grep
+ b).mail
+ c).mesg
+ d).write
